@@ -1,0 +1,1 @@
+"""DRP Backend — Decentralized Rights Protocol"""
